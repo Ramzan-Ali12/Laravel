@@ -16,7 +16,7 @@ To install Laravel CRUD, you need to have PHP, Composer and MySQL installed on y
 
 ## Usage
 
-To use Laravel CRUD, open your browser and go to http://localhost:8000. You will see a list of data from the database. You can add a new record by clicking on the "Add New" button, edit an existing record by clicking on the "Edit" button, or delete a record by clicking on the "Delete" button.
+To use Laravel CRUD, open your browser and go to http://localhost:8000. You will see a list of data from the database. You can add a new record by clicking on the "Add New" button, edit an existing record by clicking on the "Edit" button, or delete a record by clicking on the "Delete" button and View the record by click on the View buton.
 
 ## Home Page
 ![image](https://user-images.githubusercontent.com/103037323/235219731-966c2a62-5aca-4b69-9909-225a2bb632af.png)
